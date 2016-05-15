@@ -1,0 +1,679 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<points>
+  <_>
+    <id>0</id>
+	<info>"Top of skull"</info>
+	<group></group>
+    <x>0.000000</x>
+    <y>-1.061000</y></_>
+  <_>
+    <id>1</id>
+	<info>"(Middle border between hair and forehead)"</info>
+	<group></group>
+    <x>0.174000</x>
+    <y>-0.800000</y></_>
+<_>
+    <id>2</id>
+	<info>"Middle of forehead"</info>
+	<group></group>
+    <x>0.000000</x>
+    <y>-0.539000</y></_>
+	<_>
+    <id>3</id>
+	<info>"Midpoint between eyebrows"</info>
+	<group></group>
+    <x>0.000000</x>
+    <y>-0.278000</y></_>
+<!--
+	<_>
+    <id>4</id>
+	<info>"Not used (replaced by 77 and 78 in C ANDIDE -1)"</info>
+    <x>0.000000</x>
+    <y>-0.213000</y></_>
+-->
+	<_>
+    <id>5</id>
+	<info>"Nose tip"</info>
+	<group>"NOSE"</group>
+    <x>0.000000</x>
+    <y>0.222000</y></_>
+	<_>
+    <id>6</id>
+	<info>"Bottom middle edge of nose"</info>
+	<group>"NOSE"</group>
+    <x>0.000000</x>
+    <y>0.265000</y></_>
+	<_>
+    <id>7</id>
+	<info>"Middle point of outer upper lip contour"</info>
+	<group>"MOUTH"</group>
+    <x>0.000000</x>
+    <y>0.417000</y></_>
+	<_>
+    <id>8</id>
+	<info>"Middle point of outer lower lip contour"</info>
+	<group>"MOUTH"</group>
+    <x>0.000000</x>
+    <y>0.526000</y></_>
+	<_>
+    <id>9</id>
+	<info>"Chin boss"</info>
+    <x>0.000000</x>
+    <y>0.591000</y></_>
+	<_>
+    <id>10</id>
+	<info>"Bottom of the chin"</info>
+	<group></group>
+    <x>0.000000</x>
+    <y>0.852000</y></_>
+	<_>
+    <id>11</id>
+	<info>"Left of top of skull"</info>
+	<group></group>
+    <x>0.217000</x>
+    <y>-1.039000</y></_>
+	<_>
+    <id>12</id>
+	<info>"Left of top of skull"</info>
+	<group></group>
+    <x>0.457000</x>
+    <y>-0.909000</y></_>
+	<_>
+    <id>13</id>
+	<info>"(Left border between hair and forehead)"</info>
+	<group></group>
+    <x>0.435000</x>
+    <y>-0.626000</y></_>
+	<_>
+    <id>14</id>
+	<info>"Left side of skull"</info>
+	<group></group>
+    <x>0.610000</x>
+    <y>-0.539000</y></_>
+	<_>
+    <id>15</id>
+	<info>"Outer corner of left eyebrow"</info>
+	<group>"LEFT_EYE"</group>
+    <x>0.522000</x>
+    <y>-0.278000</y></_>
+	<_>
+    <id>16</id>
+	<info>"Uppermost point of the left eyebrow"</info>
+	<group>"LEFT_EYE"</group>
+    <x>0.391000</x>
+    <y>-0.374000</y></_>
+	<_>
+    <id>17</id>
+	<info>"Inner corner of left eyebrow"</info>
+	<group>"LEFT_EYE"</group>
+    <x>0.130000</x>
+    <y>-0.278000</y></_>
+	<_>
+    <id>18</id>
+	<info>"Lower contour of the left eyebrow, straight under 16"</info>
+	<group>"LEFT_EYE"</group>
+    <x>0.391000</x>
+    <y>-0.322000</y></_>
+	<_>
+    <id>19</id>
+	<info>"Center of upper outer left eyelid"</info>
+	<group>"LEFT_EYE"</group>
+    <x>0.304000</x>
+    <y>-0.225000</y></_>
+	<_>
+    <id>20</id>
+	<info>"Outer corner of left eye"</info>
+	<group>"LEFT_EYE"</group>
+    <x>0.470000</x>
+    <y>-0.148000</y></_>
+	<_>
+    <id>21</id>
+	<info>"Center of upper inner left eyelid"</info>
+	<group>"LEFT_EYE"</group>
+    <x>0.304000</x>
+    <y>-0.204000</y></_>
+	<_>
+    <id>22</id>
+	<info>"Center of lower inner left eyelid"</info>
+	<group>"LEFT_EYE"</group>
+    <x>0.304000</x>
+    <y>-0.122000</y></_>
+	<_>
+    <id>23</id>
+	<info>"Inner corner of left eye"</info>
+	<group>"LEFT_EYE"</group>
+    <x>0.130000</x>
+    <y>-0.148000</y></_>
+	<_>
+    <id>24</id>
+	<info>"Center of lower outer left eyelid"</info>
+	<group>"LEFT_EYE"</group>
+    <x>0.304000</x>
+    <y>-0.104000</y></_>
+	<_>
+    <id>25</id>
+	<info>"Left nose border"</info>
+	<group>"NOSE"</group>
+    <x>0.109000</x>
+    <y>0.157000</y></_>
+	<_>
+    <id>26</id>
+	<info>"Left nostril outer border"</info>
+	<group>"NOSE"</group>
+    <x>0.174000</x>
+    <y>0.244000</y></_>
+	<_>
+    <id>27</id>
+	<info>"Left cheek bone"</info>
+	<group></group>
+    <x>0.387000</x>
+    <y>0.100000</y></_>
+	<_>
+    <id>28</id>
+	<info>"Inner contact point between left ear and face"</info>
+	<group></group>
+    <x>0.550000</x>
+    <y>0.250000</y></_>
+	<_>
+    <id>29</id>
+	<info>"Upper contact point between left ear and face"</info>
+	<group></group>
+    <x>0.609000</x>
+    <y>-0.148000</y></_>
+	<_>
+    <id>30</id>
+	<info>"Left corner of jaw bone"</info>
+	<group></group>
+    <x>0.470000</x>
+    <y>0.600000</y></_>
+	<_>
+    <id>31</id>
+	<info>"Left corner of outer lip contour"</info>
+	<group>"MOUTH"</group>
+    <x>0.246000</x>
+    <y>0.461000</y></_>
+	<_>
+    <id>32</id>
+	<info>"Chin left corner"</info>
+	<group></group>
+    <x>0.174000</x>
+    <y>0.809000</y></_>
+	<_>
+    <id>33</id>
+	<info>"Uppermost point of left outer lip contour"</info>
+	<group>"MOUTH"</group>
+    <x>0.043000</x>
+    <y>0.396000</y></_>
+	<_>
+    <id>34</id>
+	<info>"(Middle border between hair and forehead)"</info>
+	<group></group>
+    <x>-0.174000</x>
+    <y>-0.800000</y></_>
+<!--
+	<_>
+    <id>35</id>
+	<info></info>
+    <x>0.000000</x>
+    <y>-0.539000</y></_>
+	<_>
+    <id>36</id>
+	<info></info>
+    <x>0.000000</x>
+    <y>-0.278000</y></_>
+	<_>
+    <id>37</id>
+	<info></info>
+    <x>0.000000</x>
+    <y>-0.213000</y></_>
+	<_>
+    <id>38</id>
+	<info></info>
+    <x>0.000000</x>
+    <y>0.222000</y></_>
+	<_>
+    <id>39</id>
+	<info></info>
+    <x>0.000000</x>
+    <y>0.265000</y></_>
+-->
+	<_>
+    <id>40</id>
+	<info>"Middle point of inner lower lip contour"</info>
+	<group>"MOUTH"</group>
+    <x>0.000000</x>
+    <y>0.461000</y></_>
+<!--
+	<_>
+    <id>41</id>
+	<info></info>
+    <x>0.000000</x>
+    <y>0.526000</y></_>
+	<_>
+    <id>42</id>
+	<info></info>
+    <x>0.000000</x>
+    <y>0.591000</y></_>
+	<_>
+    <id>43</id>
+	<info></info>
+    <x>0.000000</x>
+    <y>0.852000</y></_>
+-->
+	<_>
+    <id>44</id>
+	<info>"Right of top of skull"</info>
+	<group></group>
+    <x>-0.217000</x>
+    <y>-1.039000</y></_>
+	<_>
+    <id>45</id>
+	<info>"Right of top of skull"</info>
+	<group></group>
+    <x>-0.457000</x>
+    <y>-0.909000</y></_>
+	<_>
+    <id>46</id>
+	<info>"(Right border between hair and forehead)"</info>
+	<group></group>
+    <x>-0.435000</x>
+    <y>-0.626000</y></_>
+	<_>
+    <id>47</id>
+	<info>"Right side of skull"</info>
+	<group></group>
+    <x>-0.610000</x>
+    <y>-0.539000</y></_>
+	<_>
+    <id>48</id>
+	<info>"Outer corner of right eyebrow"</info>
+	<group>"RIGHT_EYE"</group>
+    <x>-0.522000</x>
+    <y>-0.278000</y></_>
+	<_>
+    <id>49</id>
+	<info>"Uppermost point of the right eyebrow"</info>
+	<group>"RIGHT_EYE"</group>
+    <x>-0.391000</x>
+    <y>-0.374000</y></_>
+	<_>
+    <id>50</id>
+	<info>"Inner corner of right eyebrow"</info>
+	<group>"RIGHT_EYE"</group>
+    <x>-0.130000</x>
+    <y>-0.278000</y></_>
+	<_>
+    <id>51</id>
+	<info>"Lower contour of the right eyebrow, straight under 49"</info>
+	<group>"RIGHT_EYE"</group>
+    <x>-0.391000</x>
+    <y>-0.322000</y></_>
+	<_>
+    <id>52</id>
+	<info>"Center of upper outer right eyelid"</info>
+	<group>"RIGHT_EYE"</group>
+    <x>-0.304000</x>
+    <y>-0.225000</y></_>
+	<_>
+    <id>53</id>
+	<info>"Outer corner of right eye"</info>
+	<group>"RIGHT_EYE"</group>
+    <x>-0.470000</x>
+    <y>-0.148000</y></_>
+	<_>
+    <id>54</id>
+	<info>"Center of upper inner right eyelid"</info>
+	<group>"RIGHT_EYE"</group>
+    <x>-0.304000</x>
+    <y>-0.204000</y></_>
+	<_>
+    <id>55</id>
+	<info>"Center of lower inner right eyelid"</info>
+	<group>"RIGHT_EYE"</group>
+    <x>-0.304000</x>
+    <y>-0.122000</y></_>
+	<_>
+    <id>56</id>
+	<info>"Inner corner of right eye"</info>
+	<group>"RIGHT_EYE"</group>
+    <x>-0.130000</x>
+    <y>-0.148000</y></_>
+	<_>
+    <id>57</id>
+	<info>"Center of lower outer right eyelid"</info>
+	<group>"RIGHT_EYE"</group>
+    <x>-0.304000</x>
+    <y>-0.104000</y></_>
+	<_>
+    <id>58</id>
+	<info>"Right nose border"</info>
+	<group>"NOSE"</group>
+    <x>-0.109000</x>
+    <y>0.157000</y></_>
+	<_>
+    <id>59</id>
+	<info>"Right nostril border"</info>
+	<group>"NOSE"</group>
+    <x>-0.174000</x>
+    <y>0.244000</y></_>
+	<_>
+    <id>60</id>
+	<info>"Right cheek bone"</info>
+	<group></group>
+    <x>-0.387000</x>
+    <y>0.100000</y></_>
+	<_>
+    <id>61</id>
+	<info>"Lower contact point between right ear and face"</info>
+	<group></group>
+    <x>-0.550000</x>
+    <y>0.250000</y></_>
+	<_>
+    <id>62</id>
+	<info>"Upper contact point between right ear and face"</info>
+	<group></group>
+    <x>-0.609000</x>
+    <y>-0.148000</y></_>
+	<_>
+    <id>63</id>
+	<info>"Right corner of jaw bone"</info>
+	<group></group>
+    <x>-0.470000</x>
+    <y>0.600000</y></_>
+	<_>
+    <id>64</id>
+	<info>"Right corner of outer lip contour"</info>
+	<group>"MOUTH"</group>
+    <x>-0.246000</x>
+    <y>0.461000</y></_>
+	<_>
+    <id>65</id>
+	<info>"Chin right corner"</info>
+	<group></group>
+    <x>-0.174000</x>
+    <y>0.809000</y></_>
+	<_>
+    <id>66</id>
+	<info>"Uppermost point of right outer lip contour"</info>
+	<group>"MOUTH"</group>
+    <x>-0.043000</x>
+    <y>0.396000</y></_>
+	<_>
+    <id>67</id>
+	<info>"Left iris, outer upper corner of bounding (square) box"</info>
+	<group>"LEFT_EYE"</group>
+    <x>0.348000</x>
+    <y>-0.200000</y></_>
+	<_>
+    <id>68</id>
+	<info>"Left iris, outer lower corner of bounding (square) box"</info>
+	<group>"LEFT_EYE"</group>
+    <x>0.348000</x>
+    <y>-0.115000</y></_>
+	<_>
+    <id>69</id>
+	<info>"Right iris, outer upper corner of bounding (square) box"</info>
+	<group>"RIGHT_EYE"</group>
+    <x>-0.348000</x>
+    <y>-0.200000</y></_>
+	<_>
+    <id>70</id>
+	<info>"Right iris, outer lower corner of bounding (square) box"</info>
+	<group>"RIGHT_EYE"</group>
+    <x>-0.348000</x>
+    <y>-0.115000</y></_>
+	<_>
+    <id>71</id>
+	<info>"Left iris, inner upper corner of bounding (square) box"</info>
+	<group>"LEFT_EYE"</group>
+    <x>0.265000</x>
+    <y>-0.200000</y></_>
+	<_>
+    <id>72</id>
+	<info>"Left iris, inner lower corner of bounding (square) box"</info>
+	<group>"LEFT_EYE"</group>
+    <x>0.265000</x>
+    <y>-0.115000</y></_>
+	<_>
+    <id>73</id>
+	<info>"Right iris, inner upper corner of bounding (square) box"</info>
+	<group>"RIGHT_EYE"</group>
+    <x>-0.265000</x>
+    <y>-0.200000</y></_>
+	<_>
+    <id>74</id>
+	<info>"Right iris, inner lower corner of bounding (square) box"</info>
+	<group>"RIGHT_EYE"</group>
+    <x>-0.265000</x>
+    <y>-0.115000</y></_>
+	<_>
+    <id>75</id>
+	<info>"Left side of nose tip"</info>
+	<group>"NOSE"</group>
+    <x>0.080000</x>
+    <y>0.220000</y></_>
+	<_>
+    <id>76</id>
+	<info>"Right side of nose tip"</info>
+	<group>"NOSE"</group>
+    <x>-0.080000</x>
+    <y>0.220000</y></_>
+	<_>
+    <id>77</id>
+	<info>"Left upper edge of nose bone"</info>
+	<group>"NOSE"</group>
+    <x>0.022000</x>
+    <y>-0.213000</y></_>
+	<_>
+    <id>78</id>
+	<info>"Right upper edge of nose bone"</info>
+	<group>"NOSE"</group>
+    <x>-0.022000</x>
+    <y>-0.213000</y></_>
+	<_>
+    <id>79</id>
+	<info>"Midpoint between FFP 8.4 and 8.1 on outer upper lip contour"</info>
+	<group>"MOUTH"</group>
+    <x>0.123000</x>
+    <y>0.410000</y></_>
+	<_>
+    <id>80</id>
+	<info>"Midpoint between FFP 8.3 and 8.1 on outer upper lip contour"</info>
+	<group>"MOUTH"</group>
+    <x>-0.123000</x>
+    <y>0.410000</y></_>
+	<_>
+    <id>81</id>
+	<info>"Midpoint between FFP 2.2 and 2.5 on the inner upper lip contour"</info>
+	<group>"MOUTH"</group>
+    <x>0.100000</x>
+    <y>0.461000</y></_>
+	<_>
+    <id>82</id>
+	<info>"Midpoint between FFP 2.2 and 2.4 on the inner upper lip contour"</info>
+	<group>"MOUTH"</group>
+    <x>-0.100000</x>
+    <y>0.461000</y></_>
+	<_>
+    <id>83</id>
+	<info>"Midpoint between FFP 2.3 and 2.5 on the inner lower lip contour"</info>
+	<group>"MOUTH"</group>
+    <x>0.100000</x>
+    <y>0.461000</y></_>
+	<_>
+    <id>84</id>
+	<info>"Midpoint between FFP 2.3 and 2.4 on the inner lower lip contour"</info>
+	<group>"MOUTH"</group>
+    <x>-0.100000</x>
+    <y>0.461000</y></_>
+	<_>
+    <id>85</id>
+	<info>"Midpoint between FFP 8.4 and 8.2 on outer lower lip contour"</info>
+	<group>"MOUTH"</group>
+    <x>0.123000</x>
+    <y>0.508000</y></_>
+	<_>
+    <id>86</id>
+	<info>"Midpoint between FFP 8.3 and 8.2 on outer lower lip contour"</info>
+	<group>"MOUTH"</group>
+    <x>-0.123000</x>
+    <y>0.508000</y></_>
+	<_>
+    <id>87</id>
+	<info>"Middle point of inner upper lip contour"</info>
+	<group>"MOUTH"</group>
+    <x>0.000000</x>
+    <y>0.461000</y></_>
+	<_>
+    <id>88</id>
+	<info>"Left corner of inner lip contour"</info>
+	<group>"MOUTH"</group>
+    <x>0.200000</x>
+    <y>0.461000</y></_>
+	<_>
+    <id>89</id>
+	<info>"Right corner of inner lip contour"</info>
+	<group>"MOUTH"</group>
+    <x>-0.200000</x>
+    <y>0.461000</y></_>
+	<_>
+    <id>90</id>
+	<info>"Center of the left cheek"</info>
+	<group></group>
+    <x>0.357000</x>
+    <y>0.461000</y></_>
+	<_>
+    <id>91</id>
+	<info>"Center of the right cheek"</info>
+	<group></group>
+    <x>-0.357000</x>
+    <y>0.461000</y></_>
+	<_>
+    <id>92</id>
+	<info>"Left lower edge of nose bone"</info>
+	<group>"NOSE"</group>
+    <x>0.065000</x>
+    <y>-0.028000</y></_>
+	<_>
+    <id>93</id>
+	<info>"Right lower edge of nose bone"</info>
+	<group>"NOSE"</group>
+    <x>-0.065000</x>
+    <y>-0.028000</y></_>
+	<_>
+    <id>94</id>
+	<info>"Middle lower edge of nose bone (or nose bump)"</info>
+	<group>"NOSE"</group>
+    <x>0.000000</x>
+    <y>-0.068000</y></_>
+	<_>
+    <id>95</id>
+	<info>"Outer upper edge of left upper eyelid"</info>
+	<group>"LEFT_EYE"</group>
+    <x>0.387000</x>
+    <y>-0.201000</y></_>
+	<_>
+    <id>96</id>
+	<info>"Outer upper edge of right upper eyelid"</info>
+	<group>"RIGHT_EYE"</group>
+    <x>-0.387000</x>
+    <y>-0.201000</y></_>
+	<_>
+    <id>97</id>
+	<info>"Outer lower edge of left upper eyelid"</info>
+	<group>"LEFT_EYE"</group>
+    <x>0.387000</x>
+    <y>-0.186000</y></_>
+	<_>
+    <id>98</id>
+	<info>"Outer lower edge of right upper eyelid"</info>
+	<group>"RIGHT_EYE"</group>
+    <x>-0.387000</x>
+    <y>-0.186000</y></_>
+	<_>
+    <id>99</id>
+	<info>"Outer upper edge of left lower eyelid"</info>
+	<group>"LEFT_EYE"</group>
+    <x>0.387000</x>
+    <y>-0.126000</y></_>
+	<_>
+    <id>100</id>
+	<info>"Outer upper edge of right lower eyelid"</info>
+	<group>"RIGHT_EYE"</group>
+    <x>-0.387000</x>
+    <y>-0.126000</y></_>
+	<_>
+    <id>101</id>
+	<info>"Outer lower edge of left lower eyelid"</info>
+	<group>"LEFT_EYE"</group>
+    <x>0.387000</x>
+    <y>-0.117000</y></_>
+	<_>
+    <id>102</id>
+	<info>"Outer lower edge of right lower eyelid"</info>
+	<group>"RIGHT_EYE"</group>
+    <x>-0.387000</x>
+    <y>-0.117000</y></_>
+	<_>
+    <id>103</id>
+	<info>"Inner upper edge of left upper eyelid"</info>
+	<group>"LEFT_EYE"</group>
+    <x>0.217000</x>
+    <y>-0.201000</y></_>
+	<_>
+    <id>104</id>
+	<info>"Inner upper edge of right upper eyelid"</info>
+	<group>"RIGHT_EYE"</group>
+    <x>-0.217000</x>
+    <y>-0.201000</y></_>
+	<_>
+    <id>105</id>
+	<info>"Inner lower edge of left upper eyelid"</info>
+	<group>"LEFT_EYE"</group>
+    <x>0.217000</x>
+    <y>-0.186000</y></_>
+	<_>
+    <id>106</id>
+	<info>"Inner lower edge of right upper eyelid"</info>
+	<group>"RIGHT_EYE"</group>
+    <x>-0.217000</x>
+    <y>-0.186000</y></_>
+	<_>
+    <id>107</id>
+	<info>"Inner upper edge of left lower eyelid"</info>
+	<group>"LEFT_EYE"</group>
+    <x>0.217000</x>
+    <y>-0.126000</y></_>
+	<_>
+    <id>108</id>
+	<info>"Inner upper edge of right lower eyelid"</info>
+	<group>"RIGHT_EYE"</group>
+    <x>-0.217000</x>
+    <y>-0.126000</y></_>
+	<_>
+    <id>109</id>
+	<info>"Inner lower edge of left lower eyelid"</info>
+	<group>"LEFT_EYE"</group>
+    <x>0.217000</x>
+    <y>-0.117000</y></_>
+	<_>
+    <id>110</id>
+	<info>"Inner lower edge of right lower eyelid"</info>
+	<group>"RIGHT_EYE"</group>
+    <x>-0.217000</x>
+    <y>-0.117000</y></_>
+	<_>
+    <id>111</id>
+	<info>"Bottom left edge of nose"</info>
+	<group>"NOSE"</group>
+    <x>0.120000</x>
+    <y>0.265000</y></_>
+	<_>
+    <id>112</id>
+	<info>"Bottom right edge of nose"</info>
+	<group>"NOSE"</group>
+    <x>-0.120000</x>
+    <y>0.265000</y></_>
+</points>
+</opencv_storage>

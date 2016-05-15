@@ -1,36 +1,44 @@
 cmake_minimum_required(VERSION 2.8.11)
 
+project(Face2Face)
+
+# Find includes in corresponding build directories
+set(CMAKE_INCLUDE_CURRENT_DIR ON)
+# Instruct CMake to run moc automatically when needed.
 set(CMAKE_AUTOMOC ON)
 
-project(F2FI_lib)
+SET (CMAKE_LIBRARY_OUTPUT_DIRECTORY
+   ${PROJECT_BINARY_DIR}/bin
+   CACHE PATH
+   "Single Directory for all Libraries"
+   )
 
-set( SOURCE_FILES
-	 ChartWidget.cpp
-	 MimRec.cpp
-	 PrisonersDilemma.cpp
-	 FaceTracking.cpp
-	 BarChartModel.cpp
-	 BackProp.cpp
-)
+# --------- Setup the Executable output Directory -------------
+SET (CMAKE_RUNTIME_OUTPUT_DIRECTORY
+   ${PROJECT_BINARY_DIR}/bin
+   CACHE PATH
+   "Single Directory for all Executables."
+   )
 
-set( HEADERS
-	 ChartWidget.h
-	 MimRec.h
-	 PrisonersDilemma.h
-	 FaceTracking.h
-	 BarChartModel.h
-	 BackProp.h
-)
+# --------- Setup the Executable output Directory -------------
+SET (CMAKE_ARCHIVE_OUTPUT_DIRECTORY
+   ${PROJECT_BINARY_DIR}/bin
+   CACHE PATH
+   "Single Directory for all static libraries."
+   )
 
-include_directories("C:\\kdchart-2.5.1-source\\include\\KDChart")
+# Find the QtWidgets library
+find_package(Qt5Widgets)
+find_package(Qt5Network)
 
-# Tell CMake to create the helloworld executable
-add_library(F2FI_lib STATIC ${SOURCE_FILES} ${HEADERS} )
+include_directories("C:\\opencv\\build\\include")
 
-# Use the Widgets module from Qt 5.
-target_link_libraries(F2FI_lib ${OpenCV_LIBS})
-target_link_libraries(F2FI_lib Qt5::Core)
-target_link_libraries(F2FI_lib Qt5::Widgets)
-target_link_libraries(F2FI_lib Qt5::Network)
-target_link_libraries(F2FI_lib "C:\\kdchart-2.5.1-source\\lib\\kdchartd2.lib")
-target_link_libraries(F2FI_lib aamlib)
+set(OpenCV_STATIC OFF)
+find_package(OpenCV REQUIRED)
+
+# subprojects
+add_subdirectory(aamlib)
+add_subdirectory(AAMed)
+add_subdirectory(aamrec)
+add_subdirectory(F2FI_lib)
+add_subdirectory(F2FI_lib_test)
