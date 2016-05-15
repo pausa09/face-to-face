@@ -236,7 +236,7 @@ void MimRec::calc_distance()
 	current_distances[5468] =
 		acos((pow(current_distances[1808], 2) + pow(current_distances[1547], 2) - pow(current_distances[1550], 2)) / (2 * abs(current_distances[1808]) * abs(current_distances[1547])));
 	current_distances[5468] *= 180.f / 3.14f;
-	//angle between 41-44-47 für Inner Brow Raiser right
+	//angle between 41-44-47 fÃ¼r Inner Brow Raiser right
 	current_distances[5469] =
 		acos((pow(current_distances[3447], 2) + pow(current_distances[3633], 2) - pow(current_distances[3450], 2)) / (2 * abs(current_distances[3447]) * abs(current_distances[3633])));
 	current_distances[5469] *= 180.f / 3.14f;
@@ -245,7 +245,7 @@ void MimRec::calc_distance()
 	current_distances[5470] =
 		acos((pow(current_distances[1637], 2) + pow(current_distances[1808], 2) - pow(current_distances[1634], 2)) / (2 * abs(current_distances[1637]) * abs(current_distances[1808])));
 	current_distances[5470] *= 180.f / 3.14f;
-	//angle between 44-42-47 für Outer Brow Raiser right
+	//angle between 44-42-47 fÃ¼r Outer Brow Raiser right
 	current_distances[5471] =
 		acos((pow(current_distances[3633], 2) + pow(current_distances[3512], 2) - pow(current_distances[3509], 2)) / (2 * abs(current_distances[3633]) * abs(current_distances[3512])));
 	current_distances[5471] *= 180.f / 3.14f;
